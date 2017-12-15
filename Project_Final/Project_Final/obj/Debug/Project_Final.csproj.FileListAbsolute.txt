@@ -1,0 +1,12 @@
+c:\users\harry potter\source\repos\Project_Final\Project_Final\bin\Debug\Project_Final.exe.config
+c:\users\harry potter\source\repos\Project_Final\Project_Final\bin\Debug\Project_Final.exe
+c:\users\harry potter\source\repos\Project_Final\Project_Final\bin\Debug\Project_Final.pdb
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.Form1.resources
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.Properties.Resources.resources
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.csproj.GenerateResource.Cache
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.csproj.CoreCompileInputs.cache
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.exe
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.pdb
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.The_ABC_Land.resources
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.The_Color_Land.resources
+c:\users\harry potter\source\repos\Project_Final\Project_Final\obj\Debug\Project_Final.The_Number_Land.resources
